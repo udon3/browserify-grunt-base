@@ -2,9 +2,15 @@
 
 Browserify is a global install usually...
 
-BUT in grunt using `grunt-browserify`, `browserify` gets installed locally, and it gets referenced there.
+With `grunt-browserify`, `browserify` gets installed locally, and is referenced there.
 
-(for notes on browserify, look in /browsery-test/ project)
+This project blatantly follows this [Sitepoint tutorial](http://www.sitepoint.com/getting-started-browserify/)
+
+Other resources I found helpful as a node API/ Browserify novice: 
+
+- [https://nodejs.org/docs/latest/api/modules.html](https://nodejs.org/docs/latest/api/modules.html)
+- [Browserify handbook](https://github.com/substack/browserify-handbook#exports)
+- on `exports` vs `module.exports`: [this stackoverflow answer helped](http://stackoverflow.com/a/17944431/487746)
 
 
 ## In this project: npm install's
