@@ -5,7 +5,7 @@
   "description": "a Sitepoint Browserify tutorial with added jquery test and integrated with grunt task runner",
   "dependencies": {
     "jquery": "^2.1.4",
-    "underscore": "1.6.x"
+    "underscore": ">=1.12.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.0.1",
